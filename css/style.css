@@ -129,7 +129,7 @@ body {
 }
 
 /* Desktop Approach */
-@media screen and (min-width: 545px) {
+@media screen and (min-width: 598px) {
   .card {
     max-width: 600px;
     flex-direction: row;
